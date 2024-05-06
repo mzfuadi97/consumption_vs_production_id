@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: secret-meridian-414302
+    schema: perikanan_indo
+
+    tables:
+      - name: perikanan_indo_data
