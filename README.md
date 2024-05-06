@@ -18,7 +18,7 @@ The full dashboard built in Looker Studio can be accessed [here](https://lookers
 
 Please note that because the GCP free plan has 10 days of temporary access remaining, Looker Studio's connection may be lost during access. Below is the dashboard page:
 
-![Page 1](/assets/Electric_Vehicles_Activity_page-0001.jpg)
+![Page 1](/assets/dashboard-looker.png)
 
 ## Project Breakdown
 
