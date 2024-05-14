@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: staging
-    database: secret-meridian-414302
+    database: {project-id}
     schema: perikanan_indo
 
     tables:
